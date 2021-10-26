@@ -1,0 +1,61 @@
+#Header {
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+    width: 1430px;
+    background-color: dimgray;
+}
+
+#rec1 {
+    height: 50px;
+    width: 130px;
+    background-color: red;
+}
+
+#rec2 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec3 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec4 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec5 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec6 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec7 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec8 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
+
+#rec9 {
+    height: 50px;
+    width: 90px;
+    background-color: red;
+}
